@@ -1,7 +1,6 @@
 <div id="title" align=center>
 
 
-
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
 ![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
@@ -12,7 +11,7 @@
 
 </div>
 
-**可免费获取完整代码！！！**
+联系 **【QQ 979748385 QQ群 601569450】** 回复项目编号即可获取！！！
 
 ---
 
@@ -26,8 +25,7 @@
 
 > **关注微信公众号【爱毕设】或添加QQ 【979748385】，可免费获取完整代码**
 
-1. 联系 **【QQ 979748385 QQ群 601569450】** 回复项目编号即可获取！！！
-2. 关注微信公众号 《爱毕设》输入项目编码即可！！！
+1. 关注微信公众号 《爱毕设》输入项目编码即可！！！
 
 ![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
 
